@@ -3,7 +3,7 @@
 ## Description
 The competition dataset contains anonymized health metrics linked to three age-related conditions, aiming to predict a binary outcome of the diagnosis. The dataset, sourced from the Behavioral Risk Factor Surveillance System (BRFSS), has been refined to focus on fifty-six health characteristics linked to these conditions. The primary goal is to predict a binary outcome of diagnosis:
 
-- class 1 for one or more of any of the three medical conditions
+- class 1: for one or more of any of the three medical conditions
 - class 0: no diagnosis
   
 ## Code
