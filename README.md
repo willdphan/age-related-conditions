@@ -1,7 +1,7 @@
 # Age-Related Conditions Prediction
 
 ## Description
-This code is designed to predict the risk of three age-related conditions based on anonymized health metrics. The dataset, sourced from the Behavioral Risk Factor Surveillance System (BRFSS), has been refined to focus on fifty-six health characteristics linked to these conditions. The primary goal is to predict a binary outcome of diagnosis:
+The competition dataset contains anonymized health metrics linked to three age-related conditions, aiming to predict a binary outcome of the diagnosis. The dataset, sourced from the Behavioral Risk Factor Surveillance System (BRFSS), has been refined to focus on fifty-six health characteristics linked to these conditions. The primary goal is to predict a binary outcome of diagnosis:
 
 - class 1: diagnosed with one of the three conditions
 - class 0: no diagnosis
